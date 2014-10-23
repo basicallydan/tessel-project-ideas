@@ -18,3 +18,7 @@ How does it work?
 How does it work?
 1. Runs a server which will simply run the servo to go one direction or another, pulls the blind up or down.
 2. Done
+
+# More projects...
+
+https://projects.tessel.io/projects
